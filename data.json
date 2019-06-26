@@ -1,0 +1,24 @@
+{
+    "lists": {
+        "lists": [{
+                "id": "1",
+                "name": "龚利ing",
+                "age": "18",
+                "phone": "www.runoob.com"
+            },
+            {
+                "id": "2",
+                "name": "刘亦菲",
+                "age": "18",
+                "phone": "www.runoob.com"
+            },
+            {
+                "id": "3",
+                "name": "刘诗诗",
+                "age": "18",
+                "phone": "www.runoob.com"
+            }
+
+        ]
+    }
+}

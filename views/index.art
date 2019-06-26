@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <a href="">去修改个人信息</a>
+    <ul>
+        {{each lists ele}}
+        <li>姓名 ： <span>{{ele.name}}</span> ----  年龄 <span>{{ele.age}}</span>   -------  手机号码<span>{{ele.phone}}</span>   <a href="">修改</a> -- <a href="">删除</a></li>
+        {{/each}}
+    </ul>
+</body>
+</html>
